@@ -1,0 +1,19 @@
+form {
+	max-width: 400px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+input, label, select {
+	font-size: 1.125em;
+	font-family: monospace;
+	background: white;
+	border-radius: 0px;
+}
+
+label {
+	font-weight: bold;
+	color: #8844ee;
+	margin: 20px 0 5px 0;
+}
